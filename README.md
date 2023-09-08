@@ -2,7 +2,7 @@
 ## Name : Natnaree Phianjud
 ### ID : 6340011004
 
-<img src='assets/images/' width='200px'>
+
 
 A new Flutter project.
 
